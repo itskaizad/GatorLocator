@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_locator_home"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/uf"
+    tools:context="edu.uf.gatorlocator.LocatorHome">
+
+    <!--<com.rodolfonavalon.shaperipplelibrary.ShapeRipple-->
+        <!--android:id="@+id/ripple"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="500dp"-->
+        <!--android:layout_centerInParent="true"-->
+        <!--custom:ripple_stroke_width="40dp" />-->
+
+
+</RelativeLayout>
